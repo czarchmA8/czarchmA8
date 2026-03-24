@@ -12,4 +12,8 @@ Miłośnik Charmandera ❤️ i koloru czerwonego. Programuję głównie w Pytho
 
 ## 📊 Statystyki języków
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarchmA8&layout=compact&theme=transparent"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarchmA8&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=czarchmA8&show_icons=true&theme=transparent"/>
+  <img alt="czarchmA8's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=czarchmA8&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+</div>
