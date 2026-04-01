@@ -12,6 +12,7 @@ Miłośnik Charmandera ❤️ i koloru czerwonego. Programuję głównie w Pytho
 
 ## 📊 Statystyki języków
 
+<a href="https://wakatime.com/@96deb40c-032f-41cf-91a2-6721828436fe"><img src="https://wakatime.com/badge/user/96deb40c-032f-41cf-91a2-6721828436fe.svg" alt="Total time coded since Mar 24 2026" /></a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarchmA8&layout=compact&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api?username=czarchmA8&show_icons=true&theme=transparent"/>
