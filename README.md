@@ -12,7 +12,17 @@ Miłośnik Charmandera ❤️ i koloru czerwonego. Programuję głównie w Pytho
 
 ## 📊 Statystyki języków
 
-<a href="https://wakatime.com/@96deb40c-032f-41cf-91a2-6721828436fe"><img src="https://wakatime.com/badge/user/96deb40c-032f-41cf-91a2-6721828436fe.svg" alt="Total time coded since Mar 24 2026" /></a>
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![WakaTime](./profile/wakatime.svg)
+<a href="https://wakatime.com/@96deb40c-032f-41cf-91a2-6721828436fe">
+  <img src="https://wakatime.com/badge/user/96deb40c-032f-41cf-91a2-6721828436fe.svg" alt="Total time coded since Mar 24 2026" />
+
+  <img src="https://wakatime.com/share/@czarchmA8/2680b959-426d-47c7-af90-23f0b837ccf8.svg" alt="Coding activity table" width="100%"/>
+
+  <p align="center">
+    <img src="./profile/top-langs.svg" alt="Top Languages"/>
+    <img src="./profile/wakatime.svg" alt="WakaTime"/>
+  </p>
+  
+  <div align="center">
+    <img src="./profile/stats.svg" alt="Stats"/>
+  </div>
+</a>
